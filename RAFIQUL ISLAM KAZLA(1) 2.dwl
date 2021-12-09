@@ -1,0 +1,3 @@
+IDRIS
+LAPTOP-NQF3M41F 
+Friday, December 10, 2021  12:47:19 AM
